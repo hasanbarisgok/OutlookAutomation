@@ -1,4 +1,4 @@
-# Outlok Automation
+# Outlook Automation
 
 This is a Python script that automates the process of sending emails using Microsoft Outlook. 
 The script uses the `streamlit` library for creating a user interface and the `selenium` library for browser automation.
